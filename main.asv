@@ -134,7 +134,6 @@ function Simplex(A, b, c, v, min)
                disp("Multiples soluciones!")
            end
         end
-        
 
         if Optima
             sprintf("Solucion optima encontrada!")
